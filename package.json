@@ -1,0 +1,12 @@
+{
+  "name": "vanillajs",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Joel Kusasira-Sutton",
+  "scripts": {
+    "serve": "web-dev-server --app-index index.html --node-resolve"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.22"
+  }
+}
